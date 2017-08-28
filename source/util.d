@@ -9,7 +9,7 @@ import std.stdio;
    Version: 0
    Params:
      start = The starting node.
-     iterator = Amount of times to step through.
+     iterator = Amount of times to step through the chain.
 */
 auto stepChain(T)(MarkovNode!T *start, long iterator) {
   T[] rarr;
