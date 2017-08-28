@@ -1,4 +1,4 @@
-module markov.core;
+module markovd.core;
 import std.random : uniform;
 /**
 	This struct is the basis of this library.

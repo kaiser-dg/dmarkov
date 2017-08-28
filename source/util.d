@@ -1,5 +1,5 @@
-module markov.util;
-import markov.core;
+module markovd.util;
+import markovd.core;
 import std.stdio;
 /**
    This function steps through a markov chain set and returns the selected values in an array.
